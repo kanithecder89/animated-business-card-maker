@@ -13,3 +13,8 @@ HTML5, CSS3, JavaScript
 
 ##  Purpose
 Demonstrates creativity with JavaScript animations and DOM manipulation.
+
+
+
+<img width="1269" height="914" alt="image" src="https://github.com/user-attachments/assets/b0002a90-6ceb-4160-a810-3572089fbbb5" />
+
